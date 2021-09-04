@@ -1,0 +1,27 @@
+{
+    "name": "crud-api",
+    "version": "1.0.0",
+    "description": "Practice building a REST API using NodeJS and Express",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BonkHo/crud-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BonkHo/crud-api/issues"
+    },
+    "homepage": "https://github.com/BonkHo/crud-api#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
